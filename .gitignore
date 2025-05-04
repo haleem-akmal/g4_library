@@ -1,0 +1,9 @@
+build/
+dist/
+nbbuild/
+nbproject/private/
+nbproject/build-impl.xml
+*.class
+*.war
+*.log
+
